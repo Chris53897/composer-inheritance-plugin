@@ -29,6 +29,9 @@
         "class": "Fidry\\Composer\\InheritancePlugin\\InheritancePlugin"
     },
     "config": {
-        "sort-packages": true
+        "sort-packages": true,
+        "allow-plugins": {
+            "wikimedia/composer-merge-plugin": true
+        }
     }
 }
