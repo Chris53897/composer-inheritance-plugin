@@ -20,7 +20,7 @@
         "wikimedia/composer-merge-plugin": "^2.0"
     },
     "require-dev": {
-        "composer/composer": "^1.0 || ^2.0"
+        "composer/composer": "^2.0"
     },
     "conflict": {
         "composer/composer": ">=2.0,<2.0.13"
